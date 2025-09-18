@@ -1,0 +1,17 @@
+name: cnn-play
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
+  - scikit-learn
+  - tqdm
+  - pytorch
+  - torchvision
+  - kagglehub
